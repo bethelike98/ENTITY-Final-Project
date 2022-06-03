@@ -11,3 +11,6 @@ What words contribute to how a tweet's sentiment is classified?
 
 ## Second Question - Naive Bayes
 Given a testing set, where is a tweet likely to fall on a sentiment scale? 
+* Naive Bayes classifier complete
+* Need to limit text to selected_text in order to boost model accuracy
+* Might need to try another classifier like SVM
